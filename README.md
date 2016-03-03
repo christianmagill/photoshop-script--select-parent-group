@@ -1,2 +1,3 @@
-# photoshop-script--select-parent-group
-A Photoshop script to select the parent group of the current selection.
+# Photoshop Script - Select Parent Group
+
+Photoshop script to select the parent group of the current selection.
